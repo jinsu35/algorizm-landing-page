@@ -35,17 +35,18 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
+  - title                                 : Magick mirror
+    description                           : Get insights on your mental health from your selfies
+    fontawesome_icon_name                 : magic
+    
   - title                                 : Most accurate facial model in the market
     description                           : Trained over +50k facial images and 10k people
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : star
     
   - title                                 : Complete privacy 
     description                           : Everything including your photos and our model stays with your phone
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Magick mirror
-    description                           : Get insights on your mental health from your selfies
-    fontawesome_icon_name                 : star
 
 
 
