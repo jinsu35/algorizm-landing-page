@@ -13,7 +13,7 @@ presskit_download_link                    : https://apps.apple.com/us/app/algori
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Algorizm                                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : $1.99                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Look how good you look today
+app_description                           : How do you look today
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
