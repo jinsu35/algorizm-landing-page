@@ -27,7 +27,7 @@ email_address                             : jinsukim21@gmail.com
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : 
-github_username                           : jinsu35
+github_username                           : spaceship-business
 youtube_username                          :
 
 
@@ -36,22 +36,22 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Magick mirror
-    description                           : Get insights on your mental health from your selfies
+    description                           : Get advice on looks from your selfies
     fontawesome_icon_name                 : magic
     
-  - title                                 : Most accurate facial model in the market
-    description                           : Trained over +50k facial images and 10k people
+  - title                                 : Most accurate and most reliable model
+    description                           : Trained over +50k face images
     fontawesome_icon_name                 : star
     
-  - title                                 : Complete privacy 
-    description                           : Everything including your photos and our model stays with your phone
+  - title                                 : Strong privacy 
+    description                           : Everything including your videos stays with your phone
     fontawesome_icon_name                 : mobile
 
 
 
 
 # Theme Settings
-topbar_color                              : "#000000"
+topbar_color                              : "#FF5733"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
